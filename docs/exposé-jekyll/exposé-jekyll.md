@@ -1,6 +1,7 @@
 ---
 layout: default
 order: 1
+chapitre: exposé-jekyll
 ---
 
 # Exposé jekyll
